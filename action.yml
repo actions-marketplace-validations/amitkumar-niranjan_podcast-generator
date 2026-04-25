@@ -1,6 +1,6 @@
 name: "Podcast Generator using Docker and Bash with Python code."
 author: "Amit Kumar Tech Lead."
-Description: "Podcast Feed."
+description: "Generate a podcast feed from YAML and commit the updated XML to the repo."
 runs:
   using: "docker"
   image: "Dockerfile"
